@@ -99,13 +99,5 @@ pip install pandas numpy torch torchvision pillow transformers tqdm openpyxl ten
 
 此仓库为本人博士毕业论文“第五章(即子研究二)”之核心代码存档，侧重展示多模态数据处理思路与实验脚本。 
 
-- 完整图片数据下载链接：
-链接：https://pan.quark.cn/s/5c4d2ef6b4a7?pwd=zbL2
-提取码：zbL2
-
-- 完整封面-标题下载链接：
-链接：https://pan.quark.cn/s/7e38d40aeb3c?pwd=9LGG
-提取码：9LGG
-
 感谢关注，欢迎一起分享交流！
 
